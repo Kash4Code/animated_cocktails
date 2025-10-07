@@ -118,7 +118,7 @@ Open http://localhost:5173 in your browser to view the project.
 
 6. Ingredient-Based Suggestions: Add a "What's in your bar?" feature where users can select ingredients they own, and the application will suggest cocktails they can make.
 
-<a name="acknowledgements">🙏 Acknowledgements</a
+<a name="acknowledgements">🙏 Acknowledgements</a>
                                                
 This project was developed based on a tutorial and foundational concepts provided by Adrian Hajdin and the JavaScript Mastery YouTube channel. Their excellent resources were invaluable in helping me learn and implement these advanced animation techniques.
 
