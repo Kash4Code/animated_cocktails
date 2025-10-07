@@ -1,133 +1,130 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
+<br />
+<a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
+<img src="public/readme/hero.png" alt="Project Banner">
+</a>
+<br />
 
-   <div>
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
-
-  <h3 align="center">Stunning GSAP Cocktail Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+<div>
+<img src="[https://img-shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white](https://img-shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)" />
+<img src="[https://img-shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white](https://img-shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)" />
+<img src="[https://img-shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img-shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" />
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+<h3 align="center">Stunning GSAP Cocktail Website</h3>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+<p align="center">
+A modern, scroll-driven web experience showcasing delightful cocktails with advanced animations.
+</p>
+</div>
 
-## 🚨 Tutorial
+📋 Table of Contents
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+✨ Overview
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+⚙️ Tech Stack
 
-<a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+🚀 Key Features
 
-## <a name="introduction">🤖 Introduction</a>
+🤸 Getting Started
 
-Build and deploy a stunning GSAP-powered cocktail website using React and Tailwind CSS—a modern, scroll-driven experience packed with advanced animations. Bring your design to life with dynamic SplitText reveals, smooth parallax scrolling, and scroll-triggered effects using GSAP’s ScrollTrigger. Lock sections in place with pinned animations, sync video playback to scroll position for cinematic storytelling, and enhance visual impact with scroll-based image masking. Create a custom animated carousel, craft seamless timeline animations across sections, and ensure a fully responsive UI that adapts beautifully across all screen sizes.
+🔮 Future Roadmap
 
+🙏 Acknowledgements
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+<a name="overview">✨ Overview</a>
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+Welcome to the Animated Cocktails project! This is a visually rich, scroll-driven website I've built to explore and demonstrate advanced web animations using React and GSAP (GreenSock Animation Platform). It's designed to provide a smooth and engaging user experience, bringing a cocktail showcase to life with dynamic interactions and responsive design.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-
-- **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
-
-- **[React](https://react.dev/)** is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
-
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
-
-- **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
-
-## <a name="features">🔋 Features</a>
-
-👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.
-
-👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
-
-👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
-
-👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences.
-
-👉 **Scroll-Synced Video Playback**: Sync video progress with scroll position for cinematic storytelling.
-
-👉 **Image Masking Effects**: Use scroll-triggered pins and masks for visually striking image transitions.
-
-👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides.
-
-👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections.
-
-👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
-
-And many more, including enhanced security and optimized video performance!
+This project focuses on leveraging modern frontend technologies to create a high-performance, animated interface
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+<a name="tech-stack">⚙️ Tech Stack</a>
 
-Follow these steps to set up the project locally on your machine.
+--> GSAP: The GreenSock Animation Platform is a robust JavaScript library I used to craft dynamic, scroll-driven visuals. It enables features like SplitText animations for engaging text reveals, ScrollTrigger for precise timeline control, smooth parallax scrolling, pinned sections, and custom animated carousels.
 
-**Prerequisites**
+--> React: I've utilized React to build a declarative and component-based user interface. This approach allows for modular development, seamless integration of complex GSAP animations, efficient state management, and ensures a responsive layout adaptable to various screen sizes.
 
-Make sure you have the following installed on your machine:
+--> Tailwind CSS: For styling, I chose Tailwind CSS, a utility-first framework. It allowed me to rapidly design and implement custom user interfaces by applying low-level utility classes directly within the components, streamlining the styling workflow.
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+--> Vite: The development workflow for this project is powered by Vite, a next-generation frontend tool. It provides a lightning-fast build process, instant hot module replacement, and optimized production builds, which is ideal for an animation-heavy React application requiring real-time development feedback.
 
-**Cloning the Repository**
 
-```bash
-git clone https://github.com/adrianhajdin/gsap_cocktails.git
-cd gsap_cocktails
-```
+<a name="key-features">🚀 Key Features</a>
 
-**Installation**
+1. SplitText Animations: Dynamic and impactful text reveals using GSAP's SplitText for engaging introductions and section highlights.
 
-Install the project dependencies using npm:
+2. ScrollTrigger Effects: Advanced scroll-based animations and precise timeline control powered by GSAP's ScrollTrigger.
 
-```bash
-npm install
-```
+3. Parallax Scrolling: Immersive depth added through smooth parallax effects that respond fluidly to user scroll actions.
 
-**Running the Project**
+4. Pinned Sections: Sections can be "pinned" in view while animating their internal content, creating compelling scroll experiences.
 
-```bash
-npm run dev
-```
+5. Scroll-Synced Video Playback: Video progress is synchronized with scroll position for cinematic and interactive storytelling.
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+6. Image Masking Effects: Visually striking image transitions achieved with scroll-triggered pins and masking techniques.
 
-## <a name="links">🔗 Assets</a>
+7. Custom Carousel: A fully customized, animated carousel with multiple navigation options and smooth slide transitions.
 
-Assets and snippets used in the project can be found in the **[Video Kit](https://jsm.dev/cocktail-kit)**.
+8. Seamless Timeline Animations: Artfully crafted animation timelines that flow smoothly across different sections of the website.
 
-<a href="https://jsm.dev/cocktail-kit" target="_blank">
-  <img src="public/readme/videokit.png" alt="Video Kit Banner">
-</a>
+9. Responsive Design: A fluid and adaptive UI, ensuring all GSAP animations and layouts perform beautifully across all screen sizes.
 
-## <a name="more">🚀 More</a>
+<a name="getting-started">🤸 Getting Started</a>
 
-**Advance your skills with Next.js Pro Course**
+Follow these steps to set up and run this project locally on your machine.
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+Prerequisites
 
-<a href="https://jsm.dev/cocktail-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>
+Ensure you have the following installed:
+
+1. Git
+
+2. Node.js
+
+3. npm (Node Package Manager)
+
+Installation & Running
+
+Clone this repository:
+> git clone https://github.com/Kash4Code/animated_cocktails.git
+
+> cd animated_cocktails
+
+(Remember to replace Kash4Code with your actual GitHub username.)
+
+Install dependencies:
+
+> npm install
+
+Start the development server:
+
+> npm run dev
+
+Open http://localhost:5173 in your browser to view the project.
+
+
+<a name="future-roadmap">🔮 Future Roadmap</a>
+
+1. I have several features planned to scale this project and enhance its functionality. The goal is to evolve this from a showcase into a fully interactive web application.
+
+2. API Integration: Transition from static data to a dynamic backend by integrating a public API like TheCocktailDB to fetch a vast library of cocktail recipes.
+
+3. Search & Filtering: Implement a robust search functionality allowing users to find cocktails by name. Add filters to sort drinks by ingredients, alcoholic/non-alcoholic content, or glass type.
+
+4. Recipe Detail View: Create a modal or a dedicated page for each cocktail that displays detailed information, including a list of ingredients, measurements, and step-by-step preparation instructions.
+
+5. User Accounts & Favorites: Introduce user authentication (e.g., via Firebase or Supabase) to allow users to create accounts, log in, and save their favorite cocktails to a personal collection.
+
+6. Ingredient-Based Suggestions: Add a "What's in your bar?" feature where users can select ingredients they own, and the application will suggest cocktails they can make.
+
+<a name="acknowledgements">🙏 Acknowledgements</a
+                                               
+This project was developed based on a tutorial and foundational concepts provided by Adrian Hajdin and the JavaScript Mastery YouTube channel. Their excellent resources were invaluable in helping me learn and implement these advanced animation techniques.
+
+
+
+
+
+
+
