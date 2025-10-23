@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "123 Velvet Way, Suite 101, Los Angeles, CA 90069",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "(213) 555-1234",
+	email: "reservations@velvetpour.com",
  },
 };
 
